@@ -1,0 +1,29 @@
+#languages
+de-DE/
+es-ES/
+zh-Hant/
+pt-PT/
+ru-RU/
+zh-Hans/
+fr-FR/
+it-IT/
+es/
+de/
+
+#Ninjatrader files
+AssemblyInfo.cs
+NinjaTrader.Custom.csproj
+NinjaTrader.Custom.xml
+NinjaTrader.Custom.dll
+NinjaTrader.Vendor.cs
+NinjaTrader.Vendor.dll
+Resource.Designer.cs
+ResourceEnumConverter.cs
+VendorLicensing.cs
+VendorLicensing.dll
+
+#resources
+*.resx
+
+#NinjaTrader default Indicators, Strategies, ChartStyles, etc.
+*/@*.cs
